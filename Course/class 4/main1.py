@@ -55,9 +55,21 @@
 
 # Example 6
 
+# print("Start")
+
+# for i in range(10,0,-2):
+#     print(i)
+
+# print("End")
+
+
+# Example 7
+
 print("Start")
 
-for i in range(10,0,-2):
+for i in range(10,0,-1):
     print(i)
+    if i == 5:
+        break
 
 print("End")
