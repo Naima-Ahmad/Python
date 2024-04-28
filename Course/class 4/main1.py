@@ -11,11 +11,23 @@
 
 # Example 2
 
-print("Start")
-i = 0
+# print("Start")
+# i = 0
 
-while i < 10 :
-    print(i+1)
-    i+=1
+# while i < 10 :
+#     print(i+1)
+#     i+=1
 
-print("End")
+# print("End")
+
+
+# Example 3
+
+# print("Start")
+# i = 10
+
+# while i > 0 :
+#     print(i)
+#     i-=1
+
+# print("End")
