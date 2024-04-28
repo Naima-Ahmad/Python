@@ -73,3 +73,5 @@ for i in range(10,0,-1):
         break
 
 print("End")
+
+print(3//5)
