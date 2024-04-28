@@ -31,3 +31,13 @@
 #     i-=1
 
 # print("End")
+
+
+# Example 4
+
+print("Start")
+
+for i in range(10):
+    print(i)
+
+print("End")
