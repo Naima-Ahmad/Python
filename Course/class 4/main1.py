@@ -35,9 +35,19 @@
 
 # Example 4
 
+# print("Start")
+
+# for i in range(10):
+#     print(i)
+
+# print("End")
+
+
+# Example 5
+
 print("Start")
 
-for i in range(10):
+for i in range(1,6,2):
     print(i)
 
 print("End")
