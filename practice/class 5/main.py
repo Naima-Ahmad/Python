@@ -19,5 +19,17 @@
 # print(studentName[-1])
 
 # Exampel 5
+# studentName = ["Naima", "Laiba", "Sara", "Fatima", "Saira", 5, 5.5]
+# print(studentName[-5])
+
+# Exampel 6
+# studentName = ["Naima", "Laiba", "Sara", "Fatima", "Saira", 5, 5.5]
+
+# for i in range(7):
+#     print(studentName[i])
+
+# Exampel 7
 studentName = ["Naima", "Laiba", "Sara", "Fatima", "Saira", 5, 5.5]
-print(studentName[-5])
+
+for i in studentName:
+    print(i)
