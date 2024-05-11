@@ -11,5 +11,13 @@
 # print(studentName[6])
 
 # Exampel 3
+# studentName = ["Naima", "Laiba", "Sara", "Fatima", "Saira", 5, 5.5]
+# print(studentName[7])
+
+# Exampel 4
+# studentName = ["Naima", "Laiba", "Sara", "Fatima", "Saira", 5, 5.5]
+# print(studentName[-1])
+
+# Exampel 5
 studentName = ["Naima", "Laiba", "Sara", "Fatima", "Saira", 5, 5.5]
-print(studentName[7])
+print(studentName[-5])
