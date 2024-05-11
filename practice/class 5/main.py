@@ -7,3 +7,9 @@
 # studentName5 = input("Please enter your name: ")
 
 # Exampel 2
+# studentName = ["Naima", "Laiba", "Sara", "Fatima", "Saira", 5, 5.5]
+# print(studentName[6])
+
+# Exampel 3
+studentName = ["Naima", "Laiba", "Sara", "Fatima", "Saira", 5, 5.5]
+print(studentName[7])
