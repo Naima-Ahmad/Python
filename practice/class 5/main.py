@@ -53,6 +53,13 @@
 # print(studentName)
 
 # Example 11
-studentName = ["Naima", "Laiba", "Jannat", "Aleha", "Eman"]
-studentName.append("Nida", "Muniba") # python not allowed to pass two arguments in this method.
-print(studentName)
+# studentName = ["Naima", "Laiba", "Jannat", "Aleha", "Eman"]
+# studentName.append("Nida", "Muniba") # python not allowed to pass two arguments in this method.
+# print(studentName)
+
+# Example 12
+# my_list = []
+# for i in range(3):
+#     my_list.append(input("Enter your Name: "))
+
+# print(my_list)
