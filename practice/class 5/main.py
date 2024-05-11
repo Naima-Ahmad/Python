@@ -29,7 +29,30 @@
 #     print(studentName[i])
 
 # Exampel 7
-studentName = ["Naima", "Laiba", "Sara", "Fatima", "Saira", 5, 5.5]
+# studentName = ["Naima", "Laiba", "Sara", "Fatima", "Saira", 5, 5.5]
 
-for i in studentName:
-    print(i)
+# for i in studentName:
+#     print(i)
+
+# Exampel 8
+# studentName = ["Naima", "Laiba", "Sara", "Fatima", "Saira", 5, 5.5]
+
+# print(len(studentName))
+
+# Exampel 9
+# studentName = ["Naima", "Laiba", "Sara", "Fatima", "Saira", 5, 5.5]
+
+# del(studentName[-3])
+
+# for i in studentName:
+#     print(i)
+
+# Example 10
+# studentName = ["Naima", "Laiba", "Jannat", "Aleha", "Eman"]
+# studentName.append("Nida")
+# print(studentName)
+
+# Example 11
+studentName = ["Naima", "Laiba", "Jannat", "Aleha", "Eman"]
+studentName.append("Nida", "Muniba") # python not allowed to pass two arguments in this method.
+print(studentName)
