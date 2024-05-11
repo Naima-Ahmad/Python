@@ -63,3 +63,23 @@
 #     my_list.append(input("Enter your Name: "))
 
 # print(my_list)
+
+# Example 13
+# first_list = [5,3,6,2,1,9]
+# first_list.sort()
+# print(first_list)
+
+# Example 14
+# first_list = [5,2,6,4,3,1]
+# first_list.sort() # arrange the current selection in alphabetical or numerical order.
+# print(first_list)
+
+# Example 15
+# first_list = ["A", "C", "E", "B", "D", "F"]
+# first_list.sort()
+# print(first_list)
+
+# Example 16
+first_list = ["B", "C", "D", "A", "F", "E"]
+first_list.sort() # arrange the current selection in alphabetical or numerical order.
+print(first_list)
